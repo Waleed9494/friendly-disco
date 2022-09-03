@@ -1,0 +1,7 @@
+<Annotation Term="Org.OData.Capabilities.V1.FilterFunctions">
+  <Collection>
+  <String>contains</String>
+  <String>endswith</String>
+  [...]
+  </Collection>
+</Annotation>
